@@ -1,0 +1,33 @@
+/* Bootstrap overrides */
+*{
+  box-shadow: none !important;
+}
+* {
+  -webkit-border-radius: 0 !important;
+     -moz-border-radius: 0 !important;
+          border-radius: 0 !important;
+}
+.navbar-inner {
+  background-image: none;
+  background-image: none;
+  background-image: none;
+  background-image: none;
+  background-image: none;
+  background-image: none;
+  background-repeat: no-repeat;
+  filter: none;
+}
+/* END OVERRIDES */
+
+body{
+  
+}
+.front-page-banner{
+}
+
+.infoboxrow{
+  margin-top: 10px;
+}
+.infobox{
+
+}
