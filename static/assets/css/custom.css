@@ -24,10 +24,23 @@ body{
 }
 .front-page-banner{
 }
-
+.thumb-data{
+  position: absolute;
+  top: 0px;
+  padding-left: 5px;
+}
+.event-title{
+  line-height: 10px;
+  color: white;
+  text-shadow: 1px 1px 1px #333333;
+}
+.event-specifics{
+  color: white;
+  text-shadow: 1px 1px 1px #333333;
+}
 .infoboxrow{
   margin-top: 10px;
 }
 .infobox{
-
+  position: relative;
 }
